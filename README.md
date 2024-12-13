@@ -1,5 +1,3 @@
-# Gxdsins
- 
 <h1 align="center">Gxdsins</h1>
 <div align="center">
   <h5>Cybersecurity Specialist</h5>
