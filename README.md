@@ -55,3 +55,9 @@
 ```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Gxdsins&abbreviated=true)
+
+---
+
+### 🖥️ Terminal Interface
+
+Check out my interactive terminal interface: [Gxdsins Terminal](https://Gxdsins.github.io/Gxdsins-Terminal)
