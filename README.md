@@ -59,5 +59,6 @@
 ---
 
 ### 🖥️ Terminal Interface
-
-Check out my interactive terminal interface: [Gxdsins Terminal](https://Gxdsins.github.io/Gxdsins-Terminal)
+```bash
+> Check out my interactive terminal interface: [Gxdsins Terminal](https://Gxdsins.github.io/Gxdsins-Terminal)
+```
