@@ -1,15 +1,7 @@
-<h5 align="left">Hello, I’m Gxdsins – a seasoned cybersecurity professional operating at the intersection of advanced cyber warfare ⚔️, digital security architecture 🛡️, and covert operations 🕶️. With expertise in penetration testing 🔍, reverse engineering 🧑‍💻, and zero-day vulnerability exploitation 💥, I thrive in high-stakes environments where precision and stealth are key. 🔐<br><br>My skill set includes crafting secure encryption protocols 🔒, performing thorough vulnerability assessments 🧩, and data exfiltration for critical security evaluations 📊. Whether I'm conducting red team operations 🎯 or researching emerging threats 🔎, I’m always on the cutting edge of digital defense and offense. 🚀</h5>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gxdsins&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gxdsins&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="left" height="200" src="https://i.gifer.com/3Orzn.gif"  />
 
 ###
 
@@ -60,9 +52,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
 </div>
-
-###
-
-<img align="right" src="https://profile-counter.glitch.me/Gxdsins/count.svg?"  />
 
 ###
